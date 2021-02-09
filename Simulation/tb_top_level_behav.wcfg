@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_top_level_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_top_level" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000001fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="187"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/tb_top_level/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/tdi" type="logic">
+      <obj_property name="ElementShortName">tdi</obj_property>
+      <obj_property name="ObjectShortName">tdi</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/tms" type="logic">
+      <obj_property name="ElementShortName">tms</obj_property>
+      <obj_property name="ObjectShortName">tms</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/in0" type="logic">
+      <obj_property name="ElementShortName">in0</obj_property>
+      <obj_property name="ObjectShortName">in0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/in1" type="logic">
+      <obj_property name="ElementShortName">in1</obj_property>
+      <obj_property name="ObjectShortName">in1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/in2" type="logic">
+      <obj_property name="ElementShortName">in2</obj_property>
+      <obj_property name="ObjectShortName">in2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/in3" type="logic">
+      <obj_property name="ElementShortName">in3</obj_property>
+      <obj_property name="ObjectShortName">in3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/tdo" type="logic">
+      <obj_property name="ElementShortName">tdo</obj_property>
+      <obj_property name="ObjectShortName">tdo</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/out0" type="logic">
+      <obj_property name="ElementShortName">out0</obj_property>
+      <obj_property name="ObjectShortName">out0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/uut/TAP_CONTROLLER/st_reg" type="other">
+      <obj_property name="ElementShortName">st_reg</obj_property>
+      <obj_property name="ObjectShortName">st_reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_top_level/uut/TAP_CONTROLLER/st_nxt" type="other">
+      <obj_property name="ElementShortName">st_nxt</obj_property>
+      <obj_property name="ObjectShortName">st_nxt</obj_property>
+   </wvobject>
+</wave_config>
